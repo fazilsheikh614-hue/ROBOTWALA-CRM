@@ -1,2 +1,0 @@
-# ROBOTWALA-CRM
-CRM for the staff of ROBOTWALA
